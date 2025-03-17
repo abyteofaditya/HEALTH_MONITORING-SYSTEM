@@ -1,3 +1,7 @@
+# Copyright © 2024 Aditya Sarohaa
+# Licensed under CC BY-NC-ND 4.0 (No modifications or commercial use allowed)
+
+
 import joblib
 import pandas as pd
 from training import*
